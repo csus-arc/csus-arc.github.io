@@ -1,5 +1,12 @@
 ---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 
+---
 
 This is the front page of a website. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io)
 
