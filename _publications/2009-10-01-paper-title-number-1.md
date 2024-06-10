@@ -1,5 +1,5 @@
 ---
-title: "Test 1"
+title: "Paper title number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'These are my notes from Dr. Mark Basgall's 1999 California Archaeology class.'
