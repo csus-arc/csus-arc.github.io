@@ -8,7 +8,9 @@ redirect_from:
 
 ---
 
-Before the California Gold Rush in 1849, people had already been living here for about 13,000 years. People either walked, paddled, or sailed here from Northeast Asia and began to set up different kinds of lifeways depending on where they found themselves. By the time the Spanish built the first mission, seven years before the Declaration of Independence was signed way over on that other coast, there were hundreds of different human populations speaking hundreds of different languages, but with one common thread: they were hunter-gatherers, not farmers. This makes the indigenous people of California different than most of the rest of the world and different even than most of the rest of North America.
+Before the California Gold Rush in 1849, people had already been living there for about 13,000 years. People either walked, paddled, or sailed here from Northeast Asia and began to set up different kinds of lifeways depending on where they found themselves. By the time the Spanish built the first mission, seven years before the Declaration of Independence was signed way over on that other coast, there were hundreds of different human populations speaking hundreds of different languages, but with one common thread: they were all hunter-gatherers, not farmers. This makes the indigenous people of California different than most of the rest of the world and different even than most of the rest of North America. 
+
+Even though prehistoric California populations grew and cultures evolved over the millenia, they retained a way of life that shared many similarities with humans everywhere before agriculture. This makes the record of their creativity, survival, and evolution especially valuable to people who want to understand humans in all places and all times.
 
 The Purpose of this Site
 ======
