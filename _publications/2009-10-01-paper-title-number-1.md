@@ -2,7 +2,7 @@
 title: "California Archaeology class notes (1999 ANTH 196R)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'These are notes.'
+excerpt: 'These are my notes from Dr. Mark Basgall's California Archaeology class.'
 date: 1999-10-01
 venue: ''
 slidesurl: 
