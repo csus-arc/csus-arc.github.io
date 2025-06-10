@@ -7,7 +7,7 @@ date: 1999-10-01
 venue: ''
 slidesurl: 
 paperurl: 'http://csus-arc.github.io/files/Basgall1999_myCAarch_notes2024_06_08.pdf'
-citation: 'Basgall, Mark. (1999). &quot;Course notes.&quot; <i>California Archaeology (ANTH 196R) </i>.'
+citation: 'Basgall, Mark. (1999). &quot;Course notes.&quot; <i>California Archaeology (ANTH 196R) </i>. California State University, Sacramento.'
 ---
 
 These are my class notes from when I took Dr. Mark Basgall's California Archaeology class back in 1999. This was a great class and there was a ton of useful information for someone starting out in California archaeology. After getting my master's degree at Sac State, I worked at a series of CRM jobs, and each time I started work in a new area or had to write a report background section, I would pull out the ANTH 196R binder and check what Mark had said, then move on to Moratto, the Chartkoffs, Jones and Klar and other key references before diving into the local literature. 
