@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'These are my old notes.'
 date:
-venue: ''
+venue:
 slidesurl: 
 paperurl: 'http://csus-arc.github.io/files/Basgall1999_myCAarch_notes2024_06_08.pdf'
 citation: 'Basgall, Mark. (1999). &quot;Course notes.&quot; <i>California Archaeology (ANTH 196R)</i>. California State University, Sacramento.'
